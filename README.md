@@ -47,6 +47,11 @@
 # | `/api/metrics` | Live cache metrics |
 
 
+## Version History
+| Version | Date | Changes |
+|---|---|---|
+| v1.0 | 2026-09-16 | Initial release with product catalog and caching |
+
 
 
 
