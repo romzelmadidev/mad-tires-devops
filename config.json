@@ -1,0 +1,12 @@
+{
+  "featureFlags": {
+    "ENABLE_NEW_CHECKOUT": false,
+    "ENABLE_WISHLIST": false,
+    "ENABLE_REDIS_CACHE": true,
+    "ENABLE_DARK_MODE": true,
+    "ENABLE_LIVE_METRICS": true
+  },
+  "version": "1.0",
+  "environment": "production",
+  "description": "Feature flags for Mad Tires e-commerce platform"
+}
