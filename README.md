@@ -46,3 +46,19 @@
 
 # | `/api/metrics` | Live cache metrics |
 
+
+
+
+
+\## Installation
+
+
+
+1\. Clone the repository
+
+&#x20;  ```bash
+
+&#x20;  git clone https://github.com/romzelmadidev/mad-tires-devops.git
+
+&#x20;  cd mad-tires-devops
+
